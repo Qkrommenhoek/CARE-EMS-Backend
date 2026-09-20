@@ -1,4 +1,4 @@
-package edu.csumb.CARE_EMS_API;
+package com.krom.CARE_EMS_API;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
